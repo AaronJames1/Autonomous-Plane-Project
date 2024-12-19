@@ -3,7 +3,7 @@ from pyautocad import Autocad, APoint
 # Initialize AutoCAD
 acad = Autocad()
 
-# Get user input (you can customize this part)
+# Get user input
 x = float(input("Enter X coordinate: "))
 y = float(input("Enter Y coordinate: "))
 
